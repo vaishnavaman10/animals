@@ -8,3 +8,5 @@ Mocha
 George the Frog
 
 Added merge line to both new-heading and main
+
+Add new line to test rules
